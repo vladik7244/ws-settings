@@ -11,10 +11,13 @@
     <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <colors>
-    <option name="ANNOTATIONS_COLOR" value="98d22b" />
+    <option name="ADDED_LINES_COLOR" value="9c1e" />
+    <option name="ANNOTATIONS_COLOR" value="c2db9e" />
+    <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3b3c32" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="DELETED_LINES_COLOR" value="cb232c" />
     <option name="FILESTATUS_ADDED" value="5bf463" />
     <option name="FILESTATUS_COPIED" value="11771c" />
     <option name="FILESTATUS_MODIFIED" value="5bc5ff" />
@@ -28,6 +31,7 @@
     <option name="HTML_TAG_TREE_LEVEL5" value="ff00ff" />
     <option name="INDENT_GUIDE" value="494848" />
     <option name="LINE_NUMBERS_COLOR" value="6e6b68" />
+    <option name="MODIFIED_LINES_COLOR" value="5480e8" />
     <option name="READONLY_BACKGROUND" value="54585b" />
     <option name="RIGHT_MARGIN_COLOR" value="333333" />
     <option name="SELECTED_TEARLINE_COLOR" value="c0c0c0" />
@@ -35,7 +39,13 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="736f5c" />
     <option name="TEARLINE_COLOR" value="c0c0c0" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="263720" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="6d4603" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="5d0414" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="6a2e86" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="8145c" />
     <option name="WHITESPACES" value="454444" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="454a53" />
   </colors>
   <attributes>
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
