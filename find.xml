@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -25,13 +28,14 @@
       <mask>*.jsp</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.js\\</mask>
-      <mask>*.j</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.*</mask>
+      <mask>*.j</mask>
+      <mask>*.json</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
