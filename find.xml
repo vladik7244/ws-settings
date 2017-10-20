@@ -13,7 +13,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
