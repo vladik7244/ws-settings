@@ -4,6 +4,14 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/selenium-webdriver" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="core" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
