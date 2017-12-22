@@ -22,18 +22,18 @@
       <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.*</mask>
-      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.jsson</mask>
       <mask>*.jsso</mask>
       <mask>*.jss</mask>
       <mask>*.json</mask>
       <mask>*.jso</mask>
-      <mask>*.js</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
