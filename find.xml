@@ -3,26 +3,8 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>.</mask>
-      <mask>.j</mask>
-      <mask>.jp</mask>
-      <mask>*.jp</mask>
-      <mask>*.jav</mask>
-      <mask>*.jcs</mask>
-      <mask>*.jc</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.c</mask>
-      <mask>*.js*</mask>
-      <mask>*.jsp</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*.js\\</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.jsson</mask>
       <mask>*.jsso</mask>
       <mask>*.jss</mask>
@@ -33,6 +15,25 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.j</mask>
+      <mask>.js</mask>
+      <mask>^[].js</mask>
+      <mask>^[.js</mask>
+      <mask>^.js</mask>
+      <mask>^().js</mask>
+      <mask>^(s).js</mask>
+      <mask>^(sp).js</mask>
+      <mask>^(spe).js</mask>
+      <mask>^(spec).js</mask>
+      <mask>.*^(spec).js</mask>
+      <mask>.^(spec).js</mask>
+      <mask>*.^(spec).js</mask>
+      <mask>*^(spec).js</mask>
+      <mask>*(spec).js</mask>
+      <mask>*spec).js</mask>
+      <mask>*spec.js</mask>
+      <mask>*spe.js</mask>
+      <mask>*sp.js</mask>
+      <mask>*s.js</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
