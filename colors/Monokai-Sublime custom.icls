@@ -1,23 +1,29 @@
 <scheme name="Monokai-Sublime custom" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Meslo LG S DZ for Powerline" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Meslo LG S DZ for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Meslo LG S for Powerline" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Monaco" />
+    <option name="EDITOR_FONT_NAME" value="Hack" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="9c1e" />
-    <option name="ANNOTATIONS_COLOR" value="c2db9e" />
+    <option name="ANNOTATIONS_COLOR" value="dbd4d1" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3b3c32" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
-    <option name="DELETED_LINES_COLOR" value="cb232c" />
+    <option name="DELETED_LINES_COLOR" value="6b1d21" />
     <option name="FILESTATUS_ADDED" value="5bf463" />
     <option name="FILESTATUS_COPIED" value="11771c" />
     <option name="FILESTATUS_MODIFIED" value="5bc5ff" />

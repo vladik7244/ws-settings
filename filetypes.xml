@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".prettierrc" type="JSON" />
+      <mapping ext="mjs" type="JavaScript" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="heco" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
