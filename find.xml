@@ -5,37 +5,16 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.jsson</mask>
-      <mask>*.jsso</mask>
-      <mask>*.jss</mask>
-      <mask>*.json</mask>
-      <mask>*.jso</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.j</mask>
-      <mask>.js</mask>
-      <mask>^[].js</mask>
-      <mask>^[.js</mask>
-      <mask>^.js</mask>
-      <mask>^().js</mask>
-      <mask>^(s).js</mask>
-      <mask>^(sp).js</mask>
-      <mask>^(spe).js</mask>
-      <mask>^(spec).js</mask>
-      <mask>.*^(spec).js</mask>
-      <mask>.^(spec).js</mask>
-      <mask>*.^(spec).js</mask>
-      <mask>*^(spec).js</mask>
-      <mask>*(spec).js</mask>
-      <mask>*spec).js</mask>
-      <mask>*spec.js</mask>
-      <mask>*spe.js</mask>
-      <mask>*sp.js</mask>
-      <mask>*s.js</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.scss" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
