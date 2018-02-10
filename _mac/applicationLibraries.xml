@@ -1,5 +1,41 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/babel-types" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/lodash" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/prop-types" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/ramda" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/recompose" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="core" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
