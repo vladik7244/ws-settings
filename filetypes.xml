@@ -4,6 +4,7 @@
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="mjs" type="JavaScript" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
+      <mapping pattern="еуые" type="PLAIN_TEXT" />
       <mapping pattern="heco" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
