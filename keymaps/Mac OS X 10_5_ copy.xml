@@ -42,5 +42,6 @@
   </action>
   <action id="Tool_External Tools_Prettier">
     <keyboard-shortcut first-keystroke="meta s" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
 </keymap>

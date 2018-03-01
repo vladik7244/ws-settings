@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
   <tool name="Prettier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="npm" />
-      <option name="PARAMETERS" value="run prettier --write $FilePathRelativeToProjectRoot$" />
+      <option name="COMMAND" value="npx" />
+      <option name="PARAMETERS" value="prettier --write $FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
