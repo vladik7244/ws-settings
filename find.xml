@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Sources" />
-    <option name="defaultScopeName" value="Sources" />
+    <option name="customScope" value="Styles" />
+    <option name="defaultScopeName" value="Styles" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Sources" />
+    <option name="SEARCH_SCOPE" value="Styles" />
     <mask>*.cs</mask>
     <mask>*.coffee</mask>
     <mask>*.js</mask>
