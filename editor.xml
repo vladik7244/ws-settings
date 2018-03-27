@@ -3,6 +3,7 @@
     <option name="SECONDARY_FONT_FAMILY" value="Hack" />
   </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="CARET_BLINKING_PERIOD" value="200" />
   </component>
 </application>
