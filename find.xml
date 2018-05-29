@@ -9,8 +9,8 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.cs</mask>
     <mask>*.coffee</mask>
-    <mask>*.js</mask>
     <mask>*.driver.tsx</mask>
     <mask>*.tsx</mask>
+    <mask>*.js</mask>
   </component>
 </application>
