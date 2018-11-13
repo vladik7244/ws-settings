@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="post-rc" type="PLAIN_TEXT" />
       <mapping pattern="еуые" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="heco" type="PLAIN_TEXT" />
