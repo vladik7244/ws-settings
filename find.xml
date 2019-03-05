@@ -17,5 +17,6 @@
     <mask>*.driver.tsx</mask>
     <mask>*.json</mask>
     <mask>*.md</mask>
+    <mask>*.spec*</mask>
   </component>
 </application>
