@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".ci_config" type="JSON" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
+      <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="post-rc" type="PLAIN_TEXT" />
       <mapping pattern="еуые" type="PLAIN_TEXT" />
