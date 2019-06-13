@@ -20,5 +20,7 @@
     <mask>!*.spec*&amp;!*.driver*</mask>
     <mask>*.spec.ts</mask>
     <mask>*.spec*</mask>
+    <mask>*.package.json</mask>
+    <mask>*package.json</mask>
   </component>
 </application>
