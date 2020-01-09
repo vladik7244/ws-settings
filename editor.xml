@@ -1,4 +1,8 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="100" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+  </component>
   <component name="DefaultFont">
     <option name="SECONDARY_FONT_FAMILY" value="Hack" />
   </component>
