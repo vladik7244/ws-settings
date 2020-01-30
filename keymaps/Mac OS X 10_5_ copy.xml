@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
@@ -47,4 +48,5 @@
   <action id="Tool_External Tools_Prettier">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
