@@ -42,7 +42,7 @@
     <option name="READONLY_BACKGROUND" value="54585b" />
     <option name="RIGHT_MARGIN_COLOR" value="333333" />
     <option name="SELECTED_TEARLINE_COLOR" value="c0c0c0" />
-    <option name="SELECTION_BACKGROUND" value="6f7965" />
+    <option name="SELECTION_BACKGROUND" value="293553" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="736f5c" />
     <option name="TEARLINE_COLOR" value="c0c0c0" />
@@ -411,8 +411,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="545a5e" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="BACKGROUND" value="452408" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -19020,7 +19020,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="678c1e" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
