@@ -3,5 +3,8 @@
     <blacklists>
       <blacklist language="TypeScript" />
     </blacklists>
+    <disabledLanguages>
+      <language id="TypeScript" />
+    </disabledLanguages>
   </component>
 </application>
