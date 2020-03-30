@@ -97,12 +97,12 @@
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="135d82" />
+        <option name="FOREGROUND" value="ba7d5" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="1b8382" />
+        <option name="FOREGROUND" value="2edbea" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -117,12 +117,12 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="268d15" />
+        <option name="FOREGROUND" value="38cf1f" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="913652" />
+        <option name="FOREGROUND" value="de146a" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -132,7 +132,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="911d22" />
+        <option name="FOREGROUND" value="ce151f" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -148,7 +148,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="9f8139" />
+        <option name="FOREGROUND" value="eaca2c" />
       </value>
     </option>
     <option name="CSS.COMMENT">
