@@ -23,7 +23,7 @@
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3b3c32" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1b2128" />
     <option name="DELETED_LINES_COLOR" value="6b1d21" />
     <option name="FILESTATUS_ADDED" value="5bf463" />
     <option name="FILESTATUS_COPIED" value="11771c" />
@@ -97,12 +97,12 @@
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ba7d5" />
+        <option name="FOREGROUND" value="2853a5" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="2edbea" />
+        <option name="FOREGROUND" value="45c0b3" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
