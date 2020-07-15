@@ -288,7 +288,7 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="943332" />
+        <option name="BACKGROUND" value="291412" />
         <option name="ERROR_STRIPE_COLOR" value="ff6647" />
       </value>
     </option>
@@ -300,13 +300,13 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="40943a" />
+        <option name="BACKGROUND" value="2e3a30" />
         <option name="ERROR_STRIPE_COLOR" value="99ff99" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="7f8da9" />
+        <option name="BACKGROUND" value="13192a" />
         <option name="ERROR_STRIPE_COLOR" value="99ccff" />
       </value>
     </option>
