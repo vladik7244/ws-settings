@@ -1,22 +1,9 @@
 <scheme name="Monokai-Sublime custom" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Meslo LG S DZ for Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Hack" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Meslo LG S for Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Hack" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </console-font>
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="9c1e" />
     <option name="ANNOTATIONS_COLOR" value="dbd4d1" />
