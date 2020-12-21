@@ -8,6 +8,7 @@
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="heco" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
