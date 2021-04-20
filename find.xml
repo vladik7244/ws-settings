@@ -33,5 +33,6 @@
     <mask>!*unit*&amp;!*spec*</mask>
     <mask>!*spec*</mask>
     <mask>*.ts</mask>
+    <mask>!*.carmi.*s</mask>
   </component>
 </application>
