@@ -9,7 +9,6 @@
     <mask>*.coffee</mask>
     <mask>*.js</mask>
     <mask>*.ts*</mask>
-    <mask>*.scss</mask>
     <mask>*.spec.*</mask>
     <mask>*.d.ts</mask>
     <mask>*.driver.tsx</mask>
@@ -34,5 +33,6 @@
     <mask>!*spec*</mask>
     <mask>*.ts</mask>
     <mask>!*.carmi.*s</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
