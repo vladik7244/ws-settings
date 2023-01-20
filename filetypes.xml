@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".transpiled" type="PLAIN_TEXT" />
       <mapping pattern=".git-ftp-include" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
