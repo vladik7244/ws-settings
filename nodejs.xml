@@ -1,0 +1,10 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/var/folders/fz/v_ds2pld1g1f95537hpkwzqr0000gp/T/fnm_multishell_1474_1605529114463/bin/node" />
+    <local-interpreter path="/var/folders/fz/v_ds2pld1g1f95537hpkwzqr0000gp/T/fnm_multishell_3240_1612864888855/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/15.2.0/bin/node" />
+    <local-interpreter path="/var/folders/fz/v_ds2pld1g1f95537hpkwzqr0000gp/T/fnm_multishell_77346_1614457874252/bin/node" />
+    <local-interpreter path="$USER_HOME$/hashcode2021/node_modules/ts-node/dist/bin.js" />
+  </component>
+</application>
